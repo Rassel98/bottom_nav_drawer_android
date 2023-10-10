@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/left"
+        android:icon="@drawable/angle_double_left"
+        android:title="Left Arrow"
+        android:checked="true"/>
+    <item
+        android:id="@+id/right"
+        android:icon="@drawable/angle_double_right"
+        android:title="right Arrow" />
+    <item
+        android:id="@+id/clean"
+        android:icon="@drawable/purge_clean"
+        android:title="Clean Arrow" />
+    <item
+        android:id="@+id/thums"
+        android:icon="@drawable/thumbs_up"
+        android:title="Thums Arrow" />
+    </group>
+</menu>

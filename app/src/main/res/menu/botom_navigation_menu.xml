@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+    <item
+        android:id="@+id/nav_Search"
+        android:icon="@drawable/ic_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_utilities"
+        android:icon="@drawable/ic_camera"
+        android:title="Utilities" />
+    <item
+        android:id="@+id/nav_Contract"
+        android:icon="@drawable/ic_contact"
+        android:title="Contract" />
+
+</menu>
